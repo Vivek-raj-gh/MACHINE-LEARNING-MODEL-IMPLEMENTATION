@@ -61,3 +61,6 @@ This example demonstrates the power of `scikit-learn` in building predictive mod
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/35f063eb-5714-434c-82b2-919b51dc21e2)
+
+![Image](https://github.com/user-attachments/assets/871857bb-1661-44fb-9370-68ca4a4c16b0)
